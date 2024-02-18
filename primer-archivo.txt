@@ -1,5 +1,2 @@
-Hola Mundo 
 
-hola soy Gian cortes
-
-actualizo 1
+hola soy Gian
